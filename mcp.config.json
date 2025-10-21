@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "name": "success_ai",
+  "description": "MCP HTTP capability for Success.ai API",
+  "capabilities": {
+    "http": {
+      "base_url": "https://api.success.ai",
+      "security": {
+        "type": "apiKey",
+        "name": "apiKey",
+        "in": "query"
+      },
+      "openapi": "./successai.json"
+    }
+  }
+}
