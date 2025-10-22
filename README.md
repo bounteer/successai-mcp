@@ -1,4 +1,12 @@
 ### ------------------------------------------------------------
+### ✅ Setup API 
+###
+ Clone repo and run this command
+ npm install
+ Add .env to the folder
+ run command as "node index.js"
+
+### ------------------------------------------------------------
 ### ✅ HEALTH CHECK
 ### Check if the wrapper service is running correctly
 ### ------------------------------------------------------------
